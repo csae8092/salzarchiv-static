@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ortsregister.xml" xml:base="http://diglib.hab.de/edoc/ed000223/" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="listplace.xml" xml:base="https://csae8092.github.io/salzarchiv-static" xml:lang="de" prev="https://csae8092.github.io/salzarchiv-static/listperson.xml" next="https://csae8092.github.io/salzarchiv-static/listwork.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>

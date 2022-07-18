@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliographie.xml" xml:base="http://digital-archiv.at:8081/exist/rest/db/files/salz/xml/bibliographie/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listwork.xml" xml:base="https://csae8092.github.io/salzarchiv-static" prev="https://csae8092.github.io/salzarchiv-static/listplace.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://csae8092.github.io/salzarchiv-static" xml:id="about.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,4 +32,4 @@
             </div>
         </body>
     </text>
-</TEI> 
+</TEI>

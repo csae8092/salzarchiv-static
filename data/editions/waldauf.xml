@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://csae8092.github.io/salzarchiv-static" xml:id="waldauf.xml" prev="https://csae8092.github.io/salzarchiv-static/kraynag.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Salzarchiv</title>
+                <title type="sub">Quellen zur Salinengeschichte Hall in Tirol</title>
+                <author>
+                    <persName>
+                        <forename>Peter</forename>
+                        <surname>Andorfer</surname>
+                    </persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability>
+                       <licence target="https://creativecommons.org/licenses/by/4.0/">
+                           <p>The (CC BY 4.0)-License applies to this document.</p>
+                       </licence>
+                   </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Quellen zur Salinengeschichte Hall in Tirol</head>
+                <p>Auf dieser Seite werden Transkriptionen von Quellen zur Geschichte der Saline Hall in Tirol veröffentlicht. Diese Dokumente, konkret die vierbändige <title>Salinengeschichte</title> von Karl Ignaz Lindner sowie die <title>Beiträge zur Monographie der k.k. Saline Hall in Tirol</title> von Adalbert Kraynag wurden von Peter Andorfer im Auftrag des Absamer Gemeindemuseums transkribiert. Diese Transkriptionen wurden entsprechend der Richtlinien der <ref target="https://tei-c.org/">Text Encoding Initiative</ref> kodiert und dienen als Grundlage für diese Website.</p>
+            </div>
+        </body>
+    </text>
+</TEI> 
